@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="User">
+  <ClassDiagramComponents>
+    <Class name="User" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="userid" type="String" visibility="private"/>
+        <Field name="passwd" type="String" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="display" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
